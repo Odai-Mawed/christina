@@ -60,7 +60,7 @@ function App() {
         color="success"
         onClick={changeCurrentSide}
         >
-        WEITER
+        WEITER!!
       </Button>
     </header>
   </div>)
