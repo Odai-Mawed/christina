@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import leachelnEmoji from './media/laechelnEmoji.png';
-import c1  from './media/c1.JPG';
+import c1  from './c1.JPG';
 import c2 from './media/c2.JPG';
 import c13 from './media/c13.JPG';
 import c16 from './media/c16.JPG';
