@@ -7,6 +7,11 @@
   pointer-events: none;
 }
 
+.App-logo2 {
+  height: 20vmin;
+  pointer-events: none;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -35,4 +40,99 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+
+
+.p1 {
+  font-size: 40px;
+}
+
+
+.p2 {
+  font-size: 50px;
+  color: 'red';
+  transform: rotate3d(1, 1, 1, 45deg);
+}
+
+
+.p3 {
+  font-size: 60px;
+  color: 'blue';
+  transform: rotate3d(1, 1, 1, 293deg);
+}
+
+.pContainer {
+  height: 100px;
+
+}
+
+.s2 {
+  display: none;
+}
+
+
+.s3 {
+  display: none;
+}
+
+.s4 {
+  display: none;
+}
+
+.s5 {
+  display: none;
+}
+
+.s6 {
+  display: none;
+}
+
+.s7 {
+  display: none;
+}
+
+.s8 {
+  display: none;
+}
+
+.s9 {
+  display: none;
+}
+
+.s10 {
+  display: none;
+}
+
+.s11 {
+  display: none;
+}
+
+.s12 {
+  display: none;
+}
+
+.s13 {
+  display: none;
+}
+
+.s14 {
+  display: none;
+}
+
+.s15 {
+  display: none;
+}
+
+.s16 {
+  display: none;
+}
+
+.s17 {
+  display: none;
+}
+
+.s18 {
+  display: none;
 }
